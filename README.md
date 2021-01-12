@@ -1,8 +1,10 @@
 # joystick_ros
-# This Program is a combination of pygame.joystick https://www.pygame.org/docs/ref/joystick.html
-# and talker.py http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29
-Usb joystick commuinication with ros operating system.
+Usb joystick communication with ros operating system.
 -------
+
+ This Program is a combination of pygame.joystick https://www.pygame.org/docs/ref/joystick.html
+ and talker.py http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29
+
 
 Install first:
 ROS operating system  https://www.ros.org/
