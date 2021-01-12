@@ -1,5 +1,5 @@
 # joystick_ros
-Connect a usb 
+Connect a usb joystick to commuinicate with ros operating system.
 Install first:
 ROS operating system
 -----------------------------------
