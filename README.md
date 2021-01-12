@@ -5,17 +5,17 @@ ROS operating system
 -----------------------------------
 Pygame
 -----------------------------------
-Win
+Win:
 pip install pygame
 
-Linux
+Linux:
 apt get install pygame
 
 Run:
 
 roscore
 
-and in new terminal
+and in new terminal:
 
 python talker_joystick.py
 
