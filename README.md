@@ -23,7 +23,8 @@ and in new terminal:
 
 python talker_joystick.py
 
-To check the published message open rqt --> Plugins --> Topics --> Topic Monitor
+To check the published message run:
+rqt      and open the monitor  --> Plugins --> Topics --> Topic Monitor
 
 It will publish Int16 std_msgs(topic:cw_move) from axis1 of joystick & Int32 std_msgs(topic:cw_move) from axis2 of joystick.
 for example when you move the axis1 full it publishes "50" (cw_move:Int16) with rate of 10 Hz.
