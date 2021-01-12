@@ -1,11 +1,12 @@
 # joystick_ros
-Connect a usb joystick to commuinicate with ros operating system.
-
+# This Program is a combination of pygame.joystick https://www.pygame.org/docs/ref/joystick.html
+# and talker.py http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29
+Usb joystick commuinication with ros operating system.
+-------
 
 Install first:
-ROS operating system
-Pygame
------------------------------------
+ROS operating system  https://www.ros.org/
+Pygame  https://www.pygame.org/docs/ref/joystick.html
 Win:
 pip install pygame
 
